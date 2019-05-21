@@ -2,3 +2,7 @@
 *.swp
 *.swn
 *.swo
+.*
+__*
+Untitled*
+temp*
