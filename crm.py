@@ -73,7 +73,7 @@ class CRM:
     contact = Contact.find(int(id))
     contact.delete()
   
-  
+   
   def display_all_contacts(self):
     Contact.all()
   
